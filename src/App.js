@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import About from "./Sections/About";
+import './master.css';
+import Home from "./Sections/Home";
+import Header from "./Sections/Header";
+import Blogs from "./Sections/Blogs";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div style={master}>
+            <Header />
+            <Home/>
+            <About/>
+            <Blogs />
+        </div>
+    );
+}
+
+const master = {
+    padding: `5%`
 }
 
 export default App;
