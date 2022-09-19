@@ -24,7 +24,7 @@ function App() {
           <a href='https://instagram.com/nikhilkadyan' target={'_blank'} rel={'noreferrer'}><FaInstagram /></a>
         </div>
         <div className='actions'>
-          <div className='button'>Résumé</div>
+          <a href='/nikhil_kadyan_cv.pdf' className='button' target={'_blank'} rel={'noreferrer'}>Résumé</a>
           <a href='mailto:nikhilkadyan@icloud.com' className='button'>Email me</a>
         </div>
       </div>
