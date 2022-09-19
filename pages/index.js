@@ -16,7 +16,7 @@ export default function Home() {
         </div>
         <div className={styles.actions}>
           <a href='/nikhil_kadyan_cv.pdf' className={styles.button} target={'_blank'} rel={'noreferrer'}>Résumé</a>
-          <a href='mailto:nikhilkadyan@icloud.com' className={styles.button}>Email me</a>
+          <a href='mailto:hey@nikhilkadyan.com' className={styles.button}>Email me</a>
         </div>
       </div>
     </Layout>
