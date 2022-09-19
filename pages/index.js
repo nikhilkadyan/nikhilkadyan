@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Layout>
       <div className={styles.content}>
-        <div className={styles.title}>👋 I'm Nikhil Kadyan</div>
+        <div className={styles.title}>`👋 I&apos;m Nikhil Kadyan</div>
         <div className={styles.subtitle}>`A Backend developer`</div>
         <div className={styles.social}>
           <a href='https://github.com/nikhilkadyan' target={'_blank'} rel={'noreferrer'}><FaGithub /></a>

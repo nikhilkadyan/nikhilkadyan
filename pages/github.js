@@ -1,10 +1,9 @@
-import styles from '../styles/Home.module.css'
 import Layout from '../components/Layout';
 
-export default function Home() {
+export default function Github() {
   return (
     <Layout title={'Github Tracker'}>
-      Hey There
+      Come back later. Still under construction.
     </Layout>
   )
 }

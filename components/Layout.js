@@ -16,13 +16,13 @@ export default function Layout({ children, title }) {
             nikhilkadyan.com
           </div>
         </Link>
-        <div className={styles.navbarLinks}>
+        {/* <div className={styles.navbarLinks}>
           <Link href="/github" passHref>
             <div className={styles.link}>
               GitTracker
             </div>
           </Link>
-        </div>
+        </div> */}
       </nav>
       <div className={styles.content}>
         {children}
