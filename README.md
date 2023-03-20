@@ -1,17 +1,16 @@
 ### Hi there, I'm Nikhil - aka [bleakMagma][twitch] 👋
 
 ## I'm a Student, Developer, and Gamer!
-- 🔭 I’m currently working with React, Redux & AWS Serverless Stack.
-- 🌱 Looking forward to building microservices & micro-frontends.
-- 🥅 2023 Goals: Start exploring Micro-frontend.
-- ⚡ Fun fact: I live stream games on [twitch] (Sometimes).
+- 🌱 I'm currently working as a full time freelancer.
+- 🔭 Master Stack: React, Redux & AWS Serverless Stack.
+- - ⚡ Fun fact: I live stream games on [twitch] (Sometimes).
+- 🥅 2023 Goals: Start exploring microservices & micro-frontends.
 
 ### Connect with me:
-
-[<img align="left" alt="bleakMagma | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="nikhilkadyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Kadyanikhil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="NikhilKadyan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="bleakMagma | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="Kadyanikhil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kadyanikhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
