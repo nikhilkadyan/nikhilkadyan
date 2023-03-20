@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and Gamer!
 - 🌱 I'm currently working as a full time freelancer.
 - 🔭 Master Stack: React, Redux & AWS Serverless Stack.
-- - ⚡ Fun fact: I live stream games on [twitch] (Sometimes).
+- ⚡ Fun fact: I live stream games on [twitch] (Sometimes).
 - 🥅 2023 Goals: Start exploring microservices & micro-frontends.
 
 ### Connect with me:
