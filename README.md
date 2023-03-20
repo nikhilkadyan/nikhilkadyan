@@ -1,7 +1,7 @@
 ### Hi there, I'm Nikhil - aka [bleakMagma][twitch] 👋
 
 ## I'm a Student, Developer, and Gamer!
-- 🔭 I’m currently working with React Redux with AWS Serverless Stack.
+- 🔭 I’m currently working with React, Redux & AWS Serverless Stack.
 - 🌱 Looking forward to build my skills by working in microservices.
 - 🥅 2023 Goals: Start exploring Micro-frontend.
 - ⚡ Fun fact: I live stream games on [twitch] (Sometimes).
