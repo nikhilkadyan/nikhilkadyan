@@ -1,14 +1,14 @@
-### Hi there, I'm Nikhil - aka [demonLordDuh][twitch] 👋
+### Hi there, I'm Nikhil - aka [bleakMagma][twitch] 👋
 
 ## I'm a Student, Developer, and Gamer!
-- 🔭 I’m currently doing some part time Freelance & working as full time web consultant!
-- 🌱 I’m a B.Tech final Year Student.
-- 🥅 2022 Goals: Start exploring on Swift UI.
+- 🔭 I’m currently working with React Redux with AWS Serverless Stack.
+- 🌱 Looking forward to build my skills by working in microservices.
+- 🥅 2023 Goals: Start exploring Micro-frontend.
 - ⚡ Fun fact: I live stream games on [twitch] (Sometimes).
 
 ### Connect with me:
 
-[<img align="left" alt="demonLordDuh | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="bleakMagma | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="nikhilkadyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Kadyanikhil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="NikhilKadyan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -36,7 +36,7 @@
 
 ---
 
-[twitch]: https://twitch.tv/demonLordDuh
+[twitch]: https://twitch.tv/bleakmagma
 [website]: https://nikhilkadyan.com
 [twitter]: https://twitter.com/kadyanikhil
 [instagram]: https://instagram.com/nikhilkadyan
