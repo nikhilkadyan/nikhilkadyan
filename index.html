@@ -2,123 +2,146 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description"
-    content="Experienced Web Developer with years of extensive experience working in software development. Skilled in JavaScript, Node.Js, React.Js, Express. AWS serverless stack">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description"
+		content="Experienced Web Developer with years of extensive experience working in software development. Skilled in JavaScript, Node.Js, React.Js, Express. AWS serverless stack">
 
-  <title>Nikhil Kadyan | Full Stack Dev</title>
-  <!-- Tailwind CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.17/dist/tailwind.min.css" rel="stylesheet">
-  <!-- Custom CSS -->
-  <style>
-    html,
-    body {
-      height: 100%;
-    }
+	<title>Nikhil Kadyan | Full Stack Dev</title>
+	<!-- Custom CSS -->
+	<style>
+		html,
+		body {
+			height: 100%;
+			margin: 0;
+			padding: 0;
+			text-align: center;
+			font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+		}
 
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background-color: #222;
-    }
+		body {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background-color: #222;
+		}
 
-    .glass-card {
-      background-color: rgba(0, 0, 0, 0.8);
-      color: #fff;
-      border-radius: 8px;
-      padding: 2rem;
-      max-width: 95vw;
-      width: 400px;
-      /* Adjust the width as needed */
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.45);
-    }
+		.glass-card {
+			background-color: rgba(0, 0, 0, 0.8);
+			color: #fff;
+			border-radius: 8px;
+			padding: 2rem 0;
+			width: 400px;
+			/* Adjust the width as needed */
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+		}
 
-    .glass-button {
-      background-color: rgba(30, 30, 30, 0.6);
-      color: #fff;
-      padding: 0.75rem 2rem;
-      border-radius: 8px;
-      transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
-    }
+		.glass-card a {
+			color: #fff;
+		}
 
-    .glass-button:hover {
-      background-color: rgba(40, 40, 40, 0.8);
-      transform: scale(1.1);
-      box-shadow: 0 0 15px rgba(40, 40, 40, 0.6);
-    }
+		.glass-card header {
+			padding-bottom: 2rem;
+		}
 
-    .social-icons {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      margin-top: 2rem;
-    }
+		.glass-card h1 {
+			font-size: 2.5rem;
+			font-weight: bold;
+			margin-bottom: 0;
+		}
 
-    .social-icon {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      width: 40px;
-      height: 40px;
-      margin: 0 5px;
-      background-color: rgba(30, 30, 30, 0.6);
-      border-radius: 8px;
-      transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
-    }
+		.glass-card p {
+			font-size: 1.5rem;
+			margin-top: 0;
+			margin-bottom: 1.5rem;
+		}
 
-    .social-icon img {
-      width: 20px;
-      height: 20px;
-    }
+		.glass-card .social-icons {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			margin-top: 2rem;
+		}
 
-    .social-icon:hover {
-      background-color: rgba(45, 45, 45, 0.8);
-      transform: scale(1.1);
-      box-shadow: 0 0 15px rgba(40, 40, 40, 0.4);
-    }
+		.glass-card .social-icon {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			width: 40px;
+			height: 40px;
+			margin: 0 5px;
+			background-color: rgba(30, 30, 30, 0.6);
+			border-radius: 8px;
+			transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+		}
 
-    .footer {
-      margin-top: 2rem;
-      text-align: center;
-    }
+		.glass-card .social-icon img {
+			width: 20px;
+			height: 20px;
+		}
 
-    .footer a {
-      color: #fff;
-      text-decoration: underline;
-    }
-  </style>
+		.glass-card .social-icon:hover {
+			background-color: rgba(45, 45, 45, 0.8);
+			transform: scale(1.1);
+			box-shadow: 0 0 15px rgba(40, 40, 40, 0.4);
+		}
+
+		.glass-card .download-button {
+			background-color: rgba(30, 30, 30, 0.6);
+			color: #fff;
+			padding: 0.75rem 2rem;
+			border-radius: 8px;
+			transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+			text-decoration: none;
+			display: inline-block;
+		}
+
+		.glass-card .download-button:hover {
+			background-color: rgba(40, 40, 40, 0.8);
+			transform: scale(1.1);
+			box-shadow: 0 0 15px rgba(40, 40, 40, 0.6);
+		}
+
+		.glass-card .footer {
+			margin-top: 2rem;
+			text-align: center;
+		}
+
+		.footer a {
+			color: #fff;
+			text-decoration: underline;
+		}
+	</style>
 </head>
 
 <body>
-  <div class="text-center">
-    <div class="glass-card mx-auto"> <!-- Add mx-auto class -->
-      <header class="py-5">
-        <h1 class="text-4xl font-bold">Nikhil Kadyan</h1>
-        <p class="text-xl">Full Stack Dev @ <a href="https://www.linkedin.com/company/sonador-inc/mycompany/"
-            class="underline" target="_blank">Sonador Inc</a></p>
-        <div class="social-icons">
-          <a href="https://www.snapchat.com/add/laadikadyan" class="social-icon" target="_blank"><img
-              src="icons/snapchat.svg" alt="Snapchat"></a>
-          <a href="https://www.instagram.com/nikhilkadyan" class="social-icon" target="_blank"><img
-              src="icons/instagram.svg" alt="Instagram"></a>
-          <a href="mailto:nikhilkadyan@icloud.com" class="social-icon" target="_blank"><img src="icons/mail.svg"
-              alt="Mail"></a>
-        </div>
-      </header>
+	<div>
+		<div class="glass-card"> <!-- Add mx-auto class -->
+			<header>
+				<h1 class="text-4xl font-bold">Nikhil Kadyan</h1>
+				<p class="text-xl">Full Stack Dev @ <a href="https://www.linkedin.com/company/sonador-inc/mycompany/"
+						class="underline" target="_blank">Sonador Inc</a></p>
+				<div class="social-icons">
+					<a href="https://www.snapchat.com/add/laadikadyan" class="social-icon" target="_blank"><img
+							src="icons/snapchat.svg" alt="Snapchat"></a>
+					<a href="https://www.instagram.com/nikhilkadyan" class="social-icon" target="_blank"><img
+							src="icons/instagram.svg" alt="Instagram"></a>
+					<a href="mailto:nikhilkadyan@icloud.com" class="social-icon" target="_blank"><img
+							src="icons/mail.svg" alt="Mail"></a>
+				</div>
+			</header>
 
-      <section class="py-5">
-        <a href="Nikhil Kadyan - 8199900222 - Resume.pdf" class="glass-button bg-purple-500" download>Download CV</a>
-      </section>
-    </div>
-    <footer class="footer">
-      <p>
-        <a href="privacy_policy.html" target="_blank">Privacy Policy</a> |
-        <a href="terms_of_service.html" target="_blank">Terms of Service</a>
-      </p>
-    </footer>
-  </div>
+			<section>
+				<a href="Nikhil Kadyan - 8199900222 - Resume.pdf" class="download-button" download>Download CV</a>
+			</section>
+		</div>
+		<footer class="footer">
+			<p>
+				<a href="privacy_policy.html" target="_blank">Privacy Policy</a> |
+				<a href="terms_of_service.html" target="_blank">Terms of Service</a>
+			</p>
+		</footer>
+	</div>
 </body>
 
 </html>
