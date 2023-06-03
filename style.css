@@ -1,0 +1,122 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+body {
+  background-color: #222;
+}
+
+.home, .privacy-policy, .terms-of-service  {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.privacy-policy, .terms-of-service {
+    align-items: start;
+}
+
+.glass-card {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 8px;
+  padding: 2rem 1rem;
+  width: 400px;
+  max-width: 85vw;
+  /* Adjust the width as needed */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+.glass-card a {
+  color: #fff;
+}
+
+.glass-card h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.glass-card p {
+  font-size: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.glass-card .social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 0;
+}
+
+.glass-card .social-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  margin: 0 5px;
+  background-color: rgba(30, 30, 30, 0.6);
+  border-radius: 8px;
+  transition: background-color 0.3s ease, transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.glass-card .social-icon img {
+  width: 20px;
+  height: 20px;
+}
+
+.glass-card .social-icon:hover {
+  background-color: rgba(45, 45, 45, 0.8);
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(40, 40, 40, 0.4);
+}
+
+.glass-card .download-button {
+  background-color: rgba(30, 30, 30, 0.6);
+  color: #fff;
+  padding: 0.75rem 2rem;
+  border-radius: 8px;
+  transition: background-color 0.3s ease, transform 0.3s ease,
+    box-shadow 0.3s ease;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.glass-card .download-button:hover {
+  background-color: rgba(40, 40, 40, 0.8);
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(40, 40, 40, 0.6);
+}
+
+.glass-card .footer {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: #777;
+  text-align: center;
+  background: rgba(40, 40, 40, 0.8);
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.text-justify {
+    text-align: justify;
+}
