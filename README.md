@@ -1,10 +1,7 @@
 ### Hi there, I'm Nikhil - aka [bleakMagma][twitch] 👋
 
-## I'm a Student, Developer, and Gamer!
+## I'm a Full time developer & Part time Gamer!
 - 🔭 Master Stack: React, Redux & AWS Serverless.
-- 🌱 I'm currently working as a full time freelancer.
-- ⚡ Fun fact: I live stream games on [twitch] (Sometimes).
-- 🥅 2023 Goals: Start exploring microservices & micro-frontends.
 
 ### Connect with me:
 [<img align="left" alt="nikhilkadyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
