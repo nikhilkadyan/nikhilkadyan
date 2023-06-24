@@ -18,20 +18,24 @@ Connect with me through the following social links:
 - Twitter: [twitter.com/kadyanikhil](https://twitter.com/kadyanikhil)
 - GitHub: [github.com/nikhilkadyan](https://github.com/nikhilkadyan)
 
-### Tech Stack
+### Skills
 
-- **Master Stack**: React, Redux, Next.js & AWS Serverless
+Here are my skills based on languages, frameworks, and AWS serverless technologies:
+
 - JavaScript (ES6+)
+- React
+- Redux
+- Next.js
+- AWS Lambda
+- AWS API Gateway
+- AWS DynamoDB
+- AWS S3
 - HTML5
 - CSS3
 - Git
 - Node.js
 - Express.js
 - MongoDB
-- AWS Lambda
-- AWS API Gateway
-- AWS DynamoDB
-- AWS S3
 
 ### Other Geeky Stuff
 
