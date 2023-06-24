@@ -1,40 +1,44 @@
-### Hi there, I'm Nikhil - aka [bleakMagma][twitch] 👋
+# Nikhil Kadyan
 
-## I'm a Full time developer & Part time Gamer!
-- 🔭 Master Stack: React, Redux & AWS Serverless.
+## Full Stack Developer & Part-Time Gamer
 
-### Connect with me:
-[<img align="left" alt="nikhilkadyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="NikhilKadyan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bleakMagma | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-[<img align="left" alt="Kadyanikhil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kadyanikhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Welcome to my GitHub portfolio! I'm Nikhil Kadyan, a Full Stack Developer with a passion for creating exceptional web applications. I also happen to be a part-time gamer, exploring virtual worlds during my leisure time.
 
-<br />
+### Website & Contact
 
-### Languages and Tools:
+You can find more about my work and interests on my website [nikhilkadyan.com](https://nikhilkadyan.com). My website provides detailed information about my background, skills, experiences, showcased projects, and a downloadable CV. It's the central hub for all the information you'll find here.
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+Feel free to visit [nikhilkadyan.com](https://nikhilkadyan.com) to access the same information along with additional details.
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+### Social Links
 
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+Connect with me through the following social links:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+- LinkedIn: [linkedin.com/in/nikhilkadyan](https://www.linkedin.com/in/nikhilkadyan)
+- Twitter: [twitter.com/kadyanikhil](https://twitter.com/kadyanikhil)
+- GitHub: [github.com/nikhilkadyan](https://github.com/nikhilkadyan)
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+### Tech Stack
 
-<br />
-<br />
+- **Master Stack**: React, Redux, Next.js & AWS Serverless
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Git
+- Node.js
+- Express.js
+- MongoDB
+- AWS Lambda
+- AWS API Gateway
+- AWS DynamoDB
+- AWS S3
 
----
+### Other Geeky Stuff
 
-[twitch]: https://twitch.tv/bleakmagma
-[website]: https://nikhilkadyan.com
-[twitter]: https://twitter.com/kadyanikhil
-[instagram]: https://instagram.com/nikhilkadyan
-[linkedin]: https://linkedin.com/in/nikhilkadyan
+Apart from coding, I also indulge in various geeky activities:
+
+- **Gaming**: As a part-time gamer, I enjoy exploring virtual worlds and competing in multiplayer games. Currently, I'm diving into the vast landscapes of "The Elder Scrolls Online."
+
+- **Tech Enthusiast**: I'm always excited to explore and learn about new technologies, gadgets, and advancements in the tech world. From attending tech conferences to reading tech blogs, I stay up-to-date with the latest trends.
+
+Feel free to explore my GitHub repositories and get in touch with me through my website or social media. Let's connect and build something awesome together!
